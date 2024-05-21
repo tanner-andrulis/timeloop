@@ -16,6 +16,8 @@ Timeloop version 2.0 (a.k.a. Sparseloop) provides stochastic modeling of compres
 
 Timeloop version 3.0 (a.k.a. Ruby) adds support for imperfectly-factorized mappings (described in our [ISPASS 2022 paper](https://ieeexplore.ieee.org/document/9804679)), in addition to support for spatial skews and flattened mappings.
 
+Timeloop version 4.0 (a.k.a. CiMLoop) adds a new Python interface and input specification to represent complex dataflows across both architecture-level and circuit-level components. This work is described in our [ISPASS 2024 paper](https://arxiv.org/abs/2405.07259).
+
 ## Tutorial
 
 New users are strongly encouraged to complete the Timeloop [tutorial](https://accelergy.mit.edu/tutorial.html). Serially walking through the [exercises](https://github.com/Accelergy-Project/timeloop-accelergy-exercises/) from the tutorial serves as an essential hands-on introduction to the tool.
